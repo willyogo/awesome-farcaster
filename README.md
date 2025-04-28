@@ -17,6 +17,7 @@
   - Professionalized, multi-feed forward client.
   - [Web](https://www.fiids.xyz/)
 - [nounspace](https://nounspace.com/)
+  - Fully customize your dashboard and profile with Themes, Mini Apps, and Tabs.
   - [Web](https://nounspace.com/)
 - [Yup](https://yup.io/)
   - Multi-network decentralized social client.
